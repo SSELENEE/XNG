@@ -7,3 +7,6 @@ feedparser
 openpyxl
 pyshp
 shapely
+geopandas
+pyproj
+fiona
