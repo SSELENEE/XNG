@@ -1,0 +1,11 @@
+streamlit
+numpy
+requests
+beautifulsoup4
+pillow
+feedparser
+openpyxl
+geopandas
+shapely
+pyproj
+fiona
